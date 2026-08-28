@@ -1,7 +1,5 @@
 # GRC-Cybersecurity-Portfolio
 
-# Enterprise Project Risk Management
-
 ## Overview
 Risk management project focused on identifying, measuring, prioritizing, and mitigating financial, technical, and operational risks.
 
