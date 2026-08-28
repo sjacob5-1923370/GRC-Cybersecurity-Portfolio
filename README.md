@@ -135,5 +135,5 @@ Several projects use fictional or simulated business environments for portfolio 
 GRC Analyst  
 Kent, WA
 
-- LinkedIn: [Add LinkedIn URL]
-- Email: sibinjacob115@gmail.com
+LinkedIn: https://www.linkedin.com/in/sibinajacob/
+Email: sibinjacob115@gmail.com
